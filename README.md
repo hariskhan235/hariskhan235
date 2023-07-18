@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haris Akhtar</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
-<img align="right" width="400" alt="Coding" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1059583%2Fscreenshots%2F4171367%2Fcoding-freak.gif&tbnid=dbrfb5dvHO4gVM&vet=12ahUKEwiyxNbg1JeAAxWYmScCHTFRC7cQMygCegUIARDVAQ..i&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F4171367-Coding-Freak&docid=eJwGc00cw2HxkM&w=800&h=600&q=programming%20images%20gif%20dribble&client=safari&ved=2ahUKEwiyxNbg1JeAAxWYmScCHTFRC7cQMygCegUIARDVAQ" >
-
 - 🌱 I’m currently learning **Full Stack**
 
 - 💬 Ask me about **Android , IOS , Flutter , WEB**
